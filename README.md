@@ -1,1 +1,16 @@
-# linux_kernel_exapmles
+# Kill Syscall Monitor
+
+A Linux kernel module that monitors `kill()` system call usage using kprobes. Logs information about processes attempting to kill other processes.
+## Installation
+```bash
+make
+sudo insmod syscall_monitor.ko
+```
+## Tests 
+
+```bash
+chmod +x test.sh
+sudo ./test.sh
+```
+
+
