@@ -13,4 +13,5 @@ chmod +x test.sh
 sudo ./test.sh
 ```
 
-
+## License  
+This project is licensed under the **GNU GPL v3.0**. See [LICENSE](LICENSE) for details. 
