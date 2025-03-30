@@ -14,4 +14,4 @@ sudo ./test.sh
 ```
 
 ## License  
-This project is licensed under the **GNU GPL v3.0**. See [LICENSE](LICENSE) for details. 
+This project is licensed under the **GNU GPL v3.0**. See [LICENSE](https://github.com/EntasaDev/linux_kernel_exapmles/blob/main/LICENCE) for details. 
